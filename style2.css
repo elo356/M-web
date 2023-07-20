@@ -26,16 +26,23 @@ p{
 }
 .button{
     text-decoration: none;
-    background-color: blueviolet;
+    background-color: rgba(137, 43, 226, 0.76);
     color: #fff;
     padding: 8px;
     border-radius: 10px;
     box-shadow: 0 3rem 6rem rgba(0,0,0,0.1);
-    position: absolute;
+    position: fixed;
     width: 25px;
+    font-size: large;
+    text-align: center;
     height: 25px;
     margin-top:50px ;
 }
 .leftTxt{
     text-align: left;
+}
+.dibujo{
+    margin-top: 8rem;
+    border-radius: 50px;
+    box-shadow: 0.5rem 1rem 2rem rgba(0, 0, 0, 0.288);;
 }

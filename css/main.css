@@ -96,6 +96,9 @@ body{
     height: 46px;
     border-radius: 50%;
 }
+.cc{
+    border-radius: 3rem;
+}
 .collection-img:hover{
     padding: 10px;
     border: 1px solid black;
@@ -103,14 +106,13 @@ body{
 }
 
 
+
 footer a{
     -webkit-transition: color 0.3s ease;
     -o-transition: color 0.3s ease;
     transition: color 0.3s ease;
 }
-.poemP{
-    background-color: #e5345b;
-}
+ 
 
 /* media queries */
 @media(min-width: 992px){
