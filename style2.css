@@ -124,7 +124,7 @@ body{
     border-radius: 0.6rem;
     overflow: hidden;
     margin: 10% 15% 10% 15%;
-    color: #222222;
+    color: #000000;
     box-shadow: 0 3rem 6rem rgba(0,0,0,0.1);
 }
 h1{
@@ -136,7 +136,7 @@ h1{
 p{
     margin: 0;
     padding: 0;
-    font-size: 2vw;
+    font-size: 3vw;
 }
 .button{
     text-decoration: none;
